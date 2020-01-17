@@ -1,0 +1,5 @@
+idea 2017版本
+jdk 1.9
+mysql 8.0
+tomcat 9.0
+数据库  root 密码123456aa
